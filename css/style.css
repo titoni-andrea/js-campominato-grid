@@ -65,14 +65,18 @@ h1 {
     aspect-ratio: 1;
 }
 
-/* .q-medium {
+.q-medium {
     border: solid 2px rgb(161, 163, 25);
     width: calc((100% / 9) - 3px);
     aspect-ratio: 1;
-} */
+}
 
-/* .q-difficult {
+.q-difficult {
     border: solid 2px rgb(222, 32, 29);
     width: calc((100% / 7) - 3px);
     aspect-ratio: 1;
-} */
+}
+
+.clicked {
+    background-color: rgb(108, 192, 220);
+}
