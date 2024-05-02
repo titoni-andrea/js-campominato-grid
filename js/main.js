@@ -1,0 +1,1 @@
+let difficolta = document.getElementById("difficolta").value
