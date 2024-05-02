@@ -13,6 +13,7 @@ inizia.addEventListener("click", function () {
 
         quadrato.addEventListener("click", function () {
             quadrato.classList.add("clicked")
+            console.log(i)
         })
     }
 
